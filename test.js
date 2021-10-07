@@ -1,4 +1,4 @@
 let hello() {
-    console.log("Hello World");
+    console.log("Javascript is awesome!");
 }
 hello()
